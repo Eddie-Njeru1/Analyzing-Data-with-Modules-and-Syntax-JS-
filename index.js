@@ -1,5 +1,5 @@
 //Readline require to link datejs in json for the date
-const require('datejs');
+require('datejs');
 
 //Create a function named combineUsers that will contain an indeterminite amount of arrays
 function combineUsers(...args) {
